@@ -14,7 +14,7 @@ from django.core.management import call_command
 ## 	call_command('test_bdd')
         
 from django.test import LiveServerTestCase
-from selenium.webdriver.firefox.webdriver import WebDriver
+#from selenium.webdriver.firefox.webdriver import WebDriver
 
 ## class BDD_TestCase(LiveServerTestCase):
 
